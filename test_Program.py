@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 30 21:41:52 2023
-
-@author: nasir.ibrahim
+@author: Uchenna
 """
 
 from MyProgram import add, subtract, multiply, divide
