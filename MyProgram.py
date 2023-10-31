@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 30 21:38:44 2023
-
-@author: nasir.ibrahim
+created by Uchenna
 """
 
 def add(first_number, second_number):
